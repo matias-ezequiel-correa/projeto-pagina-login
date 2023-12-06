@@ -2,13 +2,13 @@
   Matías Ezequiel Correa - Projeto "Página de Login" 🌐
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/" target="_blank">Página de Login | By Matías Correa,</a> feito com HTML, CSS, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-pagina-login/" target="_blank">Página de Login | By Matías Correa,</a> feito com HTML, CSS, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
-[<p align="center"><img height="400em" src="./src/design/projeto-previsao-tempo.png" alt="Projeto Previsão do Tempo">](https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/)<p>
+[<p align="center"><img height="400em" src="./design/projeto-pagina-login.png" alt="Projeto Pagina de Login">](https://matias-ezequiel-correa.github.io/projeto-pagina-login/)<p>
 
-### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-app-weather-forecast/" target="_blank">matias-ezequiel-correa.github.io/projeto-app-weather-forecast/</a>
+### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-pagina-login/" target="_blank">matias-ezequiel-correa.github.io/projeto-pagina-login/</a>
 
 ## Tecnologias utilizadas:
 
